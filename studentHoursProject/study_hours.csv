@@ -1,0 +1,20 @@
+Student,Subject,Date,Hours
+Student A,Mathematics,2023-10-01,2
+Student A,Physics,2023-10-02,1.5
+Student A,Chemistry,2023-10-10,2.5
+Student A,Mathematics,2023-11-03,3
+Student B,Mathematics,2023-10-01,1
+Student B,Biology,2023-10-02,2
+Student B,Chemistry,2023-10-15,3
+Student B,Physics,2023-10-20,2
+Student B,Biology,2023-11-05,2.5
+Student C,Physics,2023-10-03,2
+Student C,Mathematics,2023-10-04,1.5
+Student C,Chemistry,2023-10-04,2.5
+Student C,Physics,2023-10-10,1
+Student C,Mathematics,2023-11-11,2
+Student D,Mathematics,2023-10-01,3
+Student D,Physics,2023-10-07,2
+Student D,Mathematics,2023-10-10,2.5
+Student D,Chemistry,2023-10-20,1.5
+Student D,Physics,2023-11-12,3
